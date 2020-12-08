@@ -1,0 +1,4 @@
+export const SUCCESS = "SUCCESS";
+export const DELETE = "DELETE";
+export const ADD_NOTIFICATION = "ADD_NOTIFICATION";
+export const REMOVE_NOTIFICATION = "REMOVE_NOTIFICATION";
